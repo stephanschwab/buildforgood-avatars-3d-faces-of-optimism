@@ -13,6 +13,15 @@ Every avatar is a symbol of impact, created as a public good for the Optimism Co
 
 ---
 
+### 🖼 Preview  
+
+| ![Avatar 1](./images/preview1.jpg) | ![Avatar 2](./images/preview2.jpg) | ![Avatar 3](./images/preview3.jpg) | ![Avatar 4](./images/preview4.jpg) |
+|:--:|:--:|:--:|
+
+
+---
+
+
 ## 🔗 Links  
 - 🖼 [OpenSea Collection](https://opensea.io/collection/buildforgood-avatars-3d-faces-of-optimism)  
 - 🧭 [Atlas Profile]()  
