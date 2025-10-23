@@ -30,10 +30,11 @@ Every avatar is a symbol of impact, created as a public good for the Optimism Co
 ---
 
 ## 🧱 Onchain Info  
-Contract Address: insert-contract-address  
+Contract Address: 0xBB2CeBCFD4c78DDCFA0f135D8D2c5aFE64b4084a
 Standard: ERC-1155  
 Network: Optimism Mainnet  
-Deployed via: Opensea  
+Deployed via (22.10.2025): Opensea  
+Creator : Stephan (BuildForGood Ecosystem)
 
 ---
 
